@@ -1,0 +1,73 @@
+.wrapper{
+    width : 100%;
+    padding: 0;
+    display: flex;
+}
+
+.outerwrapper{
+    width : 100%;
+    margin : 0;
+    display: flex;
+}
+
+.innerwrapper{
+    margin : 140px 150px 0 150px;
+    display: flex;
+    flex-direction: column;
+    /* gap : 32px; */
+}
+
+.headingBlock{
+    margin: 0 115.29px; 
+}
+.technologies{
+    margin : 0 405.22px 12.86px 405.21px;
+    display: flex;
+   
+    color: #120A2C
+    
+}
+
+.technologiesJava{
+    margin : 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #120A2C;
+    gap : 12px;
+   
+}
+
+.gradientHeading{
+ 
+    /* font-size: 40px;
+    font-family: Arial,Helvetica, sans-serif; */
+    background: linear-gradient(90.43deg, #FE6403 48.69%, #F00CB1 80.08%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+  }
+
+.bottomdiv{
+    margin : 0;
+    gap : 72px;
+    display: flex;
+}
+
+.leftdiv{
+    display: flex;
+    margin: 80.14px 0 68px 0;
+    width: 586px;
+    height: 391px;
+
+    border-radius: 20px;
+    background-image: url("../../../../Assets/Image/Technologiesimage.svg");
+}
+
+.rightdiv{
+    margin : 190.14px 42px 81px 0;
+    width: 444px;
+    height: 228px;
+    font-size: 22px;
+}
+

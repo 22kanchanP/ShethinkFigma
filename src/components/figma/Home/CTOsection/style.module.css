@@ -1,0 +1,84 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap'); */
+
+.wrapper{
+    width : 100%;
+    padding : 0;
+    display: flex;
+}
+
+.outerwrapper{
+    width : 100%; 
+    margin: 0;
+   display: flex;
+
+}
+
+.innerwrapper{
+    margin : 140px 150px 140.9px 150px ;
+   
+    /* display: flex;
+    gap : 63px; */
+}
+
+.headingBlock{
+    margin: 0 115.28px 36px 115.29px; 
+   
+ 
+}
+.client{
+    margin : 0 427.72px 12.86px 427.71px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #120A2C
+    
+}
+
+/* .rethink-sans-<companies> {
+    font-family: "Rethink Sans", sans-serif;
+    font-optical-sizing: 48px;
+    font-weight: 800 ;
+    font-style: normal;
+  } */
+
+.companies{
+    margin : 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #120A2C;
+    gap : 12px;
+   
+}
+
+.gradientHeading{
+ 
+    /* font-size: 40px;
+    font-family: Arial,Helvetica, sans-serif; */
+    background: linear-gradient(90.43deg, #FE6403 48.69%, #F00CB1 80.08%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+  }
+
+
+.parentBox{
+    margin:  0 ;
+
+}
+
+.picturesArray{
+    margin : 0;
+    display: flex;
+}
+
+.picturesArray1{
+    width: 225.06px;
+    height: 139.63px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+

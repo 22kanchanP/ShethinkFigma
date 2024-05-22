@@ -1,0 +1,93 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+    padding: 0;
+}
+
+.outerwrapper{
+    width: 100%;
+    margin : 0;
+    background-image: url("../../../../Assets/Image/CTAimage.svg");
+    width: 100%;
+    height: 429px;
+    top: -3249px;
+    left: 75208px;
+    gap: 0px;
+    opacity: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* .innerwrapper{
+
+    margin : 99px 150px 90px 150px;
+    display: flex;
+    gap : 63px;
+   
+
+} */
+
+.innerwrapper{
+
+    margin : 140px 400px;
+    
+}
+
+.companies{
+    margin : 0 64px 32px 51px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    gap : 12px;
+}
+
+.textdiv{
+    margin : 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gradientHeading{
+ 
+    /* font-size: 40px;
+    font-family: Arial,Helvetica, sans-serif; */
+    background: linear-gradient(90.43deg, #FE6403 48.69%, #F00CB1 80.08%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+  }
+
+  .lastrow{
+    display: flex;
+    align-items: center;
+    gap : 24px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin : 43px 128.5px 0 128px;
+}
+
+.leftbutton{
+    width: 173.01px;
+    gap: 4.5px;
+    border-radius: 5px ;
+    background:white;
+    padding : 12px;
+     color:  #120A2C;
+     border: none;
+}
+
+
+
+.anchor1{
+    color: white;
+   
+}

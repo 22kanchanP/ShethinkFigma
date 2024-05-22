@@ -1,0 +1,54 @@
+.wrapper{
+    width : 100%;
+    padding: 0;
+    display: flex;
+}
+
+.outerwrapper{
+    width : 100%;
+    margin : 0;
+    display: flex;
+}
+
+.innerwrapper{
+    margin : 0 150px 140px 150px;
+    display: flex;
+    flex-wrap: wrap;
+    width : 100%;
+    gap : 200px;  
+    
+}
+
+.boxdiv{
+    margin : 0;
+    gap : 40px;
+    height: 52px;
+    width: 472px;
+}
+
+.headingdiv{
+    margin : 0;
+    font-size: 16px;
+
+}
+
+.textdiv{
+
+    color: #4D4469;
+    font-size: 18px;
+
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    gap : 10px;
+   
+}
+
+.elementdiv{
+    display: flex;
+    gap : 14px;
+    
+}
+

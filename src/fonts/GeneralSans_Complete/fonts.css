@@ -1,0 +1,17 @@
+/* @font-face {
+    font-family: 'General Sans';
+    src: url('../fonts/general-sans.woff2') format('woff2'),
+         /* url('../fonts/general-sans.woff') format('woff'), */
+         /* Add other formats if available */
+         /* Add other font-face properties as needed  */
+
+
+         @font-face {
+            font-family: 'General Sans';
+            src: 
+                 url('../fonts/general-sans.woff') format('woff'),
+                 /* Add other formats if available */
+                 /* Add other font-face properties as needed */
+        }
+        
+

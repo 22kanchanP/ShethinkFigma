@@ -1,0 +1,54 @@
+/* Filename: styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300'); 
+
+
+.wrapper{
+    width : 100%;
+    background-color: #FFFFFF;
+    padding : 12px 0;
+    display: flex;
+}
+
+.common{
+    text-decoration: none;
+    color : #120A2C;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    /* font-family: General Sans; */
+}
+
+.innerWrapper{
+    display: flex;
+    margin : 0 250px;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.left{
+    display: flex;
+    gap : 80px;
+}
+
+.right{
+    display: flex;
+    gap : 26px;
+    align-items: center;  
+}
+
+.anchor1{
+    color: #120A2C;
+    font-family: General Sans;
+}
+
+.rightbutton{
+    width: 173.01px;
+    gap: 4.5px;
+    border-radius: 5px ;
+    background: #120A2C;
+    padding : 12px;
+    color: #FFFFFF;
+}
+
+

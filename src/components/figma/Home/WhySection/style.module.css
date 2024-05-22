@@ -1,0 +1,121 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+    padding: 0;
+    margin-top: 20px;
+
+}
+
+.outerwrapper{
+    margin: 0;
+    display: flex;
+    width: 100%;
+
+
+}
+
+.innerwrapper{
+
+    display: flex;
+    flex-direction: column;
+    margin : 140px 150px;
+    gap : 80.14px;
+
+}
+
+.headingBlock{
+    margin: 0 115.29px; 
+
+}
+
+.technologies{
+    margin : 0 405.22px 12.86px 405.21px;
+    display: flex;
+   
+    color: #120A2C
+    
+}
+
+.technologiesJava{
+    margin : 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #120A2C;
+    gap : 12px;
+   
+}
+
+.gradientHeading{
+    /* font-size: 40px;
+   font-family: Arial,Helvetica, sans-serif; */
+   background: linear-gradient(90.45deg, #F00CB1 0.39%, #FE6403 99.69%);
+   -webkit-text-fill-color: transparent;
+   -webkit-background-clip: text;
+}
+
+.parentBlock{
+    display: flex;
+    margin : 0;
+    gap : 125px;
+  
+}
+
+.leftdiv{
+    margin : 40px 0 ;
+    gap : 43.86px;
+    display: flex;
+    flex-direction: column;
+}
+
+.iconsdiv{
+    margin-right : 0;  
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.picturesArray1{
+    width: 153.2px;
+    height: 95.05px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.textdiv{
+    margin : 0;
+    width : 504px;
+    height: 114px;
+    font-size: 20px;
+    flex-wrap: wrap;
+   color : #4D4469;
+
+}
+
+.rightdiv{
+    padding: 40px;
+    background-color: #F8F8FA;
+    border-radius: 20px;
+
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    gap : 10px;
+   
+}
+
+.elementdiv{
+    display: flex;
+    gap : 14px;
+    color: #4D4469;
+ 
+    
+}
+.rowdiv{
+    gap : 14px;
+}

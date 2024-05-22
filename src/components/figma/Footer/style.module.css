@@ -1,0 +1,46 @@
+.wrapper{
+    width : 100%;
+    border: 2px solid rgb(207, 52, 52);
+    padding : 0;
+    position: fixed;
+    bottom: 100px;
+    
+    
+}
+
+.outerwrapper{
+    width : 100%;
+    padding :   0;
+    background-color: white;
+    border: 2px solid blue;
+    height : 90px;
+
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    height: 200px;
+
+    /* background-image: url("paper.gif"); */
+    /* background-color: #cccccc; */
+}
+
+.innerwrapper{
+
+    gap : 32px;
+
+}
+
+.leftbutton{
+    width: 173.01px;
+    gap: 4.5px;
+    border-radius: 5px ;
+    background: #120A2C;
+    padding : 12px;
+    color: #FFFFFF;
+}
+
+.lastrow{
+    display: flex;
+    align-items: center;
+    gap : 24px;
+}
