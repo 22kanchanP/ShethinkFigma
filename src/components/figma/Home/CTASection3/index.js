@@ -1,6 +1,6 @@
 import styles from './style.module.css'
 
-function Footer()
+function CTASection3()
 {
     return(
         <div className= {styles.wrapper}>
@@ -22,7 +22,7 @@ function Footer()
                         or
                     </div>
 
-                 <a href="https://www.w3schools.com"  className= {styles.anchor1}> Book a Call </a>
+                        <a href="https://www.w3schools.com"  className= {styles.anchor1}> Book a Call </a>
 
                 </div>
 
@@ -34,4 +34,4 @@ function Footer()
     )
 }
 
-export default Footer
+export default CTASection3

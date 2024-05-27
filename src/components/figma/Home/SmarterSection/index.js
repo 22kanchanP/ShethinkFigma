@@ -21,26 +21,29 @@ function SmarterSection()
 
                                 </div>
 
-
                     </div>
                     <div className= {styles.middlediv}>
                         {
                             arr?.map((item)=>{
                                return  <div className= {styles.boxdiv}>
 
-                               <div className={styles.numbers}>
-                               {item.heading}
-                                </div>
-                                {
-                                    item.text
-                                }
-
-
+                                    <div className={styles.gradientHeadingnumber}>
+                                    {item.heading}
+                                        </div>
+                                    <div className= {styles.middledivText}>
+                                    {
+                                            item.text
+                                        }
+                                        </div>
 
                                 </div>
                             })
                         }
 
+                    </div>
+
+                    <div className= {styles.lastdiv}>
+                    <button className=  {styles.rightbutton}> Hire Top Engineers </button>
 
                     </div>
 

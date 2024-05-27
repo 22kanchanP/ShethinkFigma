@@ -2,8 +2,6 @@
     width: 100%;
     display: flex;
     padding: 0;
-  
-    border : 2px solid black;
 
 }
 
@@ -11,21 +9,19 @@
     margin: 0;
     display: flex;
     width: 100%;
-    background-color: antiquewhite;
-
 }
 
 .innerwrapper{
     display: flex;
     flex-direction: column;
-    margin : 140px 150px;
+    margin : 0 150px;
         gap : 50px;
 
 }
 
 .topdiv{
     margin : 0 66.16px;
-    background-color: aqua;
+    
     gap : 20px;
 }
 
@@ -56,7 +52,7 @@
     flex-wrap: wrap;
     height: 76px;
     width: 766px;
-    background-color: yellow;
+
     justify-content: center;
     align-items: center;
 
@@ -65,6 +61,11 @@
 }
 
 .middlediv{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    
+    
     background-color:  #120A2C;
     width: 100%;
     border-radius: 30.54px;
@@ -72,10 +73,42 @@
 
 .boxdiv{
    display : flex;
-   align-items: center;
-   justify-content: center;
+   flex-direction: column;
+   gap : 10.18px;
+   
+   
 }
 
-.numbers{
-    font-size: 24px;
+
+
+.gradientHeadingnumber{
+ 
+    /* font-size: 40px;
+    font-family: Arial,Helvetica, sans-serif; */
+    background: linear-gradient(90.43deg, #FE6403 48.69%, #F00CB1 80.08%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 68px;
+    
+  }
+
+.middledivText{
+    color :  #FFFFFF;
+    font-size: 22px;
+
+}
+
+.lastdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rightbutton{
+    width: 173.01px;
+    gap: 4.5px;
+    border-radius: 5px ;
+    background: #120A2C;
+    padding : 12px;
+    color: #FFFFFF;
 }

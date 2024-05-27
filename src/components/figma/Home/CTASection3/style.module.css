@@ -4,7 +4,22 @@
     padding: 0;
 }
 
+.outerwrapper{
+    width: 100%;
+    margin : 0;
+    background-image: url("../../../../Assets/Image/CTAimage.svg");
+    width: 100%;
+    height: 429px;
+    top: -3249px;
+    left: 75208px;
+    gap: 0px;
+    opacity: 0px;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
 
 /* .innerwrapper{
 
@@ -26,15 +41,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #000000;
-
+    color: white;
     gap : 12px;
 }
 
 .textdiv{
     margin : 0;
-    color:  #000000;
-
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -54,8 +67,7 @@
     display: flex;
     align-items: center;
     gap : 24px;
-    color: #000000;
-
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -67,15 +79,15 @@
     width: 173.01px;
     gap: 4.5px;
     border-radius: 5px ;
-    background: #120A2C;
+    background:white;
     padding : 12px;
-    color: #FFFFFF;
+     color:  #120A2C;
+     border: none;
 }
 
 
 
 .anchor1{
-    color: #000000;
-
+    color: white;
    
 }
