@@ -69,7 +69,7 @@ function HeroSection()
                                             or
                                         </div>
                            
-                                         <a href="https://www.w3schools.com" className={styles.heroAnchor}> Book a Call </a>
+                                         <a href="https://shethinkfigma.onrender.com/" className={styles.heroAnchor}> Book a Call </a>
                                      </div>
                                      </div>
                             </div>

@@ -23,7 +23,7 @@ function CTASection()
                             or
                         </div>
 
-                            <a href="https://www.w3schools.com"  className= {styles.anchor1}> Book a Call </a>
+                            <a href="https://shethinkfigma.onrender.com/"  className= {styles.anchor1}> Book a Call </a>
 
                     </div>
 

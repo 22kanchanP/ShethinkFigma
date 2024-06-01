@@ -44,10 +44,10 @@ function App() {
       <WhySection/>
       <SmarterSection/>
       <ListHeading/>
-      <List/>
+
       <CTASection3/>
       
-      <Footer/>
+      
      
      
       
